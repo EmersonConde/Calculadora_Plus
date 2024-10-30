@@ -1,0 +1,14 @@
+C:\Users\emers\Documents\Estudos\projetoscsharp\calculadora_plus\bin\Debug\net8.0\calculadora_plus.exe
+C:\Users\emers\Documents\Estudos\projetoscsharp\calculadora_plus\bin\Debug\net8.0\calculadora_plus.deps.json
+C:\Users\emers\Documents\Estudos\projetoscsharp\calculadora_plus\bin\Debug\net8.0\calculadora_plus.runtimeconfig.json
+C:\Users\emers\Documents\Estudos\projetoscsharp\calculadora_plus\bin\Debug\net8.0\calculadora_plus.dll
+C:\Users\emers\Documents\Estudos\projetoscsharp\calculadora_plus\bin\Debug\net8.0\calculadora_plus.pdb
+C:\Users\emers\Documents\Estudos\projetoscsharp\calculadora_plus\obj\Debug\net8.0\calculadora_plus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emers\Documents\Estudos\projetoscsharp\calculadora_plus\obj\Debug\net8.0\calculadora_plus.AssemblyInfoInputs.cache
+C:\Users\emers\Documents\Estudos\projetoscsharp\calculadora_plus\obj\Debug\net8.0\calculadora_plus.AssemblyInfo.cs
+C:\Users\emers\Documents\Estudos\projetoscsharp\calculadora_plus\obj\Debug\net8.0\calculadora_plus.csproj.CoreCompileInputs.cache
+C:\Users\emers\Documents\Estudos\projetoscsharp\calculadora_plus\obj\Debug\net8.0\calculadora_plus.dll
+C:\Users\emers\Documents\Estudos\projetoscsharp\calculadora_plus\obj\Debug\net8.0\refint\calculadora_plus.dll
+C:\Users\emers\Documents\Estudos\projetoscsharp\calculadora_plus\obj\Debug\net8.0\calculadora_plus.pdb
+C:\Users\emers\Documents\Estudos\projetoscsharp\calculadora_plus\obj\Debug\net8.0\calculadora_plus.genruntimeconfig.cache
+C:\Users\emers\Documents\Estudos\projetoscsharp\calculadora_plus\obj\Debug\net8.0\ref\calculadora_plus.dll
